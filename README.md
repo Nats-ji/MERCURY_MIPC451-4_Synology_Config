@@ -6,7 +6,7 @@ Copy the content of [MERCURY.conf](./MERCURY.conf) and paste it at the end of `/
 ## Supported features
 - Video settings
 - PTZ control
-- Motion Detect by camera
+- Motion Detect by camera (loses connection after a while, not recommended)
 - Motion Detect by Surveillance Station
 
 # 水星MIPC451-4摄像头的群晖Surveillance Station配置文件
@@ -17,5 +17,5 @@ Copy the content of [MERCURY.conf](./MERCURY.conf) and paste it at the end of `/
 ## 实现的功能
 - 更改视频配置
 - 控制云台方向
-- 摄像机内移动侦测
+- 摄像机内移动侦测 （一段时间后会断连，不建议使用）
 - Surveillance Station移动侦测
